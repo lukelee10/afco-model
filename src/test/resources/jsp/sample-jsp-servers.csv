@@ -1,0 +1,10 @@
+site,machine,host
+DMS-GA,nmp001.dms-ga.dcgs.usaf.nsa.ic.gov,10.0.1.201
+DMS-GA,nmp002.dms-ga.dcgs.usaf.nsa.ic.gov,10.0.1.202
+DMS-GA,nmp003.dms-ga.dcgs.usaf.nsa.ic.gov,10.0.1.203
+DMS-DC,nmp004.dms-dc.dcgs.usaf.nsa.ic.gov,10.0.1.204
+DMS-DC,nmp005.dms-dc.dcgs.usaf.nsa.ic.gov,10.0.1.205
+DMS-DC,nmp006.dms-dc.dcgs.usaf.nsa.ic.gov,10.0.1.206
+DMS-LA,nmp007.dms-la.dcgs.usaf.nsa.ic.gov,10.0.1.207
+DMS-LA,nmp008.dms-la.dcgs.usaf.nsa.ic.gov,10.0.1.208
+DMS-LA,nmp009.dms-la.dcgs.usaf.nsa.ic.gov,10.0.1.209
