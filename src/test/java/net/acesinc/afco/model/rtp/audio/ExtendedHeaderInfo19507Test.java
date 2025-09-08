@@ -6,7 +6,7 @@
 package net.acesinc.afco.model.rtp.audio;
 
 import static org.hamcrest.CoreMatchers.*;
-import static org.hamcrest.junit.MatcherAssert.assertThat;
+import static org.hamcrest.MatcherAssert.assertThat;
 
 import org.joda.time.DateTime;
 import org.junit.After;
