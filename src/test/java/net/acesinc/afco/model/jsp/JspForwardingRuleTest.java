@@ -14,6 +14,7 @@ import net.acesinc.afco.model.repo.JspForwardingRuleRepository;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.autoconfigure.data.mongo.MongoDataAutoConfiguration;
 import org.springframework.boot.autoconfigure.mongo.MongoAutoConfiguration;
 import org.springframework.boot.test.autoconfigure.data.mongo.DataMongoTest;
@@ -27,6 +28,9 @@ import org.springframework.test.context.ContextConfiguration;
 @ContextConfiguration(classes = {MongoAutoConfiguration.class, MongoDataAutoConfiguration.class})
 @Slf4j
 public class JspForwardingRuleTest {
+
+//    @Value("${spring.mongodb.embedded.version}")
+//    String hello;
 
     @Autowired
     JspForwardingRuleRepository repo;
